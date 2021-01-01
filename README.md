@@ -1,2 +1,2 @@
 # DEMO
-Learning git
+Learning github.
