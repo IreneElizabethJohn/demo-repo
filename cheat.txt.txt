@@ -1,0 +1,15 @@
+git config --global user.name "IreneElizabethJohn"
+ git config --global user.email "irujohn@gmail.com"
+ touch .gitignore
+git init
+git add .
+git commit -m "Initial commit"
+git status
+ssh-keygen -t rsa -b 4096 -C "irujohn@gmail.com"
+cat /c/Users/Asus/.ssh/id_rsa.pub
+git remote add origin git@github.com:IreneElizabethJohn/demo-repo.git
+git push origin master
+
+
+
+
